@@ -8,7 +8,7 @@
 - 🤖 Currently focusing on **Machine Learning & Deep Learning**.
 - 📈 Passionate about analyzing data and building AI models.
 - 💬 Ask me about **Python, OOP, or Data Analysis**.
-<img src="link_to_your_image" align="right" width="300">
+
 ---
 
 ### 🛠 Languages & Tools
